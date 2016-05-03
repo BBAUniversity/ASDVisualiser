@@ -1,6 +1,6 @@
 # ASDVisualiser : Visualisation des structures de données.
 
-![ASDVisualiser/arbre.jpg][logo]
+![ASD](https://github.com/BBAUniversity/ASDVisualiser/blob/master/arbre.jpg)
 
 ASDVisualiser est un projet collaboratif initié par une équipe des étudiants en 2eme année informatique à l'université de Bordj Bou Arreridj.
 L'objectif de ce projet consiste à :

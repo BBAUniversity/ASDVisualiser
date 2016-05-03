@@ -1,5 +1,7 @@
-# ASDVisualiser
+# ASDVisualiser :
 Visualisation des structures de données.
+
+
 ASDVisualiser est un projet collaboratif initié par une équipe des étudiants en 2eme année informatique à l'université de Bordj Bou Arreridj.
 L'objectif de ce projet consiste à :
 
@@ -10,6 +12,6 @@ L'objectif de ce projet consiste à :
 Tous les étudiants peuvent intégrer notre équipe pour devenir participant dans ce projet. Pour nous contacter:
 
 
-1.Email du projet : bba.asd.2016@gmail.com
-2.Page facebook : https://www.facebook.com/ASDBBA/
+1. Email du projet : bba.asd.2016@gmail.com
+2. Page facebook : https://www.facebook.com/ASDBBA/
 
